@@ -1,0 +1,16 @@
+# Segredos e Configurações
+.env
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+
+# Arquivos do Python (Lixo de processamento)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações do VS Code
+.vscode/
+
